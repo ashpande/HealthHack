@@ -1,17 +1,27 @@
 # HealthHack
 A next gen healthkit that reads ECG, EMG, Temperature, Pressure, Blood Alcohol Conc and takes Thermal Images to diagnose medical conditions anywhere, anytime.
 
-```
+
 In India, more than 50% of people don't reach a hospital on time when they get a heart attack. More than 60% of our ambulances are ill equipped to diagnose conditions, which means the patients vital parameters are anyone's guess until they reach the hospital.
 
 Moreover, with the advent of Motorcycle ambulances to deal with traffic, this has worsened since they carry no diagnostic tools. What is the need of the hour is a cheap, portable, easy to use solution for their diagnostics needs. Patients who are stabilised before being transported have a 8X higher chance of survival.
 
 We built such a system and a companion app to enable quick and easy diagnostics anytime, anywhere.
-```
+
+Machine Learning algorithms to automatically identify atrial fibrillation and other conditions are currently under development
+
 ### Current Mobile Application screen recording is [here](https://drive.google.com/open?id=16PlDe_pkNudPTPNehzPI4a-LhLSY39hV)
 
 ## Refer to circuit diagram for schematics
 ![](./Examples/Simplified-Circuit-Diagram.PNG)
+
+![Kit 1](https://github.com/AshutoshPandey123456/HealthHack/blob/master/IMG20191026221920.jpg)
+
+![Kit 2](https://github.com/AshutoshPandey123456/HealthHack/blob/master/IMG20191026221926.jpg)
+
+![Kit 3](https://github.com/AshutoshPandey123456/HealthHack/blob/master/IMG20191027032759.jpg)
+
+
 ## Technologies used
 
 ### Open Source Copy-Left Hardware 
